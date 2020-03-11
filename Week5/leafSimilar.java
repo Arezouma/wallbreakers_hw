@@ -18,7 +18,6 @@ public void getLeaf(TreeNode root, List<Integer> list){
         }
         getLeaf(root.left, list);
         getLeaf(root.right, list);
-        
     }
     
 }

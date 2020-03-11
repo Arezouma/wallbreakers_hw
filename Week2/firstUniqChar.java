@@ -1,4 +1,4 @@
- public int firstUniqChar(String s) {
+public int firstUniqChar(String s) {
     int[] letters = new int[26];
     for(int i = 0; i < letters.length; i++){
         letters[i] = -1;

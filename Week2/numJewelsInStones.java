@@ -1,4 +1,4 @@
- public int numJewelsInStones(String J, String S) {
+public int numJewelsInStones(String J, String S) {
     if(J == null || J.length() == 0 || S == null || S.length()== 0){
         return 0;
     }

@@ -21,3 +21,4 @@ public boolean wordPattern(String pattern, String str) {
         
     }
     return true;
+}

@@ -16,6 +16,4 @@ public int numSpecialEquivGroups(String[] A) {
         set.add(Arrays.toString(even) + Arrays.toString(odd));
     }
     return set.size();
-    
-    
 }
